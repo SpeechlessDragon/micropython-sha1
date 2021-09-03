@@ -1,3 +1,4 @@
+#  hmac.new() is based on hash.sha1() or hashlib.sha1() - By: SpeechlessDragon - 4 20 2021
 import hash
 import ubinascii
 def new(k, m):

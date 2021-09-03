@@ -1,4 +1,5 @@
 # encoding:utf-8
+# hash.sha1() - By: SpeechlessDragon - 4 19 2021
 class SHA1:
     def __init__(self):
         self.__H = [
